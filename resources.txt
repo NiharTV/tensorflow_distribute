@@ -1,0 +1,19 @@
+
+YOLO V3 
+	https://machinelearningspace.com/yolov3-tensorflow-2-part-1/
+
+Tensorflow Spark
+	https://github.com/yahoo/TensorFlowOnSpark
+	
+Tensorflow Spark Tutorials
+	https://towardsdatascience.com/scaling-up-with-distributed-tensorflow-on-spark-afc3655d8f95
+	https://docs.microsoft.com/en-us/azure/databricks/_static/notebooks/deep-learning/spark-tensorflow-distributor.html
+
+
+TF Distribute
+	https://ronnygeo.medium.com/rebuilding-our-next-gen-ml-platform-with-the-best-of-spark-and-tensorflow-c828499fc724
+	
+
+Spark Docker
+	sudo docker run -it --rm -p 8888:8888 -v /local/path:/home/jovyan/work jupyter/pyspark-notebook
+	
